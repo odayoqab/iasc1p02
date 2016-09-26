@@ -1,0 +1,10 @@
+.text{
+  font: arial;
+  text-transform: uppercase;
+}
+
+.brd{
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+}
