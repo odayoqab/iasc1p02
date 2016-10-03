@@ -1,0 +1,31 @@
+#wrapper{
+	margin: 2px;
+	border: purple 10px dotted;
+	padding: 90px 60px 0px;
+}
+.center{
+	text-align: center;
+	color:black;
+}
+.red{
+	color:red;
+	vertical-align: super;
+}
+.green{
+	text-align:center;
+	color:green;
+}
+p{
+	color: purple;
+}
+.orange{
+	color: orange;
+font-size: 30px;
+}
+.yellow{
+	color:yellow;
+}
+.right{
+	color: purple;
+	text-align: right;
+}

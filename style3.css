@@ -1,0 +1,18 @@
+body{
+  background-color: blue;
+}
+#wrapper{
+	margin: 150px 100px 20px 10px;
+	border: black 5px solid;
+	padding: 0px 10px 100px;
+}
+.red{
+  	border: green 2px dashed;
+    padding: 5px 5px 5px;
+    color: red;
+}
+.around{
+  margin: 150px 100px 20px 10px;
+	border: yellow 5px dotted;
+	padding: 0px 10px 100px;
+}
