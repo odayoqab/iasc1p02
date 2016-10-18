@@ -1,0 +1,23 @@
+h1, p{
+  color: white;
+}
+#wrapper{
+  background-color: green;
+  width: 650px;
+}
+#header{
+  text-align: center;
+  width: 650px;
+    height: 100px;
+  background-color: red;
+}
+#middle{
+  background-color: green;
+  width: 650px;
+  height: 300px;
+}
+#footer{
+  background-color: blue;
+  width: 650px;
+  height: 50px;
+}
