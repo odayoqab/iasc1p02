@@ -1,0 +1,24 @@
+h1, p{
+  color: white;
+  text-align: center;
+}
+#wrapper{
+  background-color: black;
+  width: 1000px;
+}
+#header{
+  text-align: center;
+  width: 650px;
+    height: 100px;
+  background-color: black;
+}
+#middle{
+  background-color: black;
+  width: 650px;
+  height: 300px;
+}
+#footer{
+  background-color: black;
+  width: 650px;
+  height: 50px;
+}
